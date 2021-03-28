@@ -17,6 +17,8 @@
     OkHttp3
     
     Picasso
+    
+    Kotlin
 
 
 #Structure (Implementation and decision explained in comments)
