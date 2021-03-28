@@ -3,12 +3,19 @@
 #Done in expected a work of 6-hours total.
 
 #Technologies and Terminologies
+
     MVVM architecture
+
     Live Data
+    
     Hilt
+    
     RxJava
+    
     Retrofit2
+    
     OkHttp3
+    
     Picasso
 
 
