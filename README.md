@@ -35,3 +35,7 @@
         Constants related to api calls
     
     Also classes Response and Status implemented as clarified
+    
+    FragmentUtils implemented for fragment transaction
+
+    CirclePorgressBar is a custom ui
