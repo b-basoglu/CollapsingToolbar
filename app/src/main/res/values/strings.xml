@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dolap Tendyol</string>
+    <string name="SUFFIX_COMMENT">yorum</string>
+    <string name="LOADING_THREE_DOT">Loading...</string>
+    <string name="PRODUCT_PAGE">Ürün sayfası</string>
+    <string name="EXPLAIN_WHY">Bu 700dp lik boş relative layaout sadece appbarda kulladığım CollapsingToolbarLayout\'un scroll davranışlarını gözlemlemeniz için eklenmiştir.
+        Collapse olan toolbarda yer alan tıtle\'a controller interface yardımıyla, endpointten gelen Product JSON nundaki name fieldı gönderilmiştir.
+        Sağ altta yer alan counter her 20 saniyede request atıldığını ve social endpointini temsil etmektedir. 20 saniyede bir loading state\'e geçip Error yada Success olması
+        durumunda Countdown başlamaktadır. NetworkConstantsta yer alan TimeoutSecForRequest = 10L retrofitten gönderilen isteğin response süresini 10 saniye ile kısıtlamıştır.
+        Kullandiğım teknolojiler Hilt, RxJava, Retrofit2, OkHTTP3, AndroidX, LiveData, Kotlin, Picasso… Objelerde ve metodlarda yorumlar ve kararlar açıklanmıştır.
+
+    </string>
+</resources>
