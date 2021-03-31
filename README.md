@@ -22,6 +22,7 @@
 
 
 #Structure (Implementation and decision explained in comments)
+
     MainActivity
         Hosts fragment container and Collapsing toolbar
     
