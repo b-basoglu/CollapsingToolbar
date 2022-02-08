@@ -1,7 +1,5 @@
-package com.example.dolaptendyol.network.response;
+package com.example.collapsable.network.response
 
-public enum Status {
-    SUCCESS,
-    LOADING,
-    ERROR
+enum class Status {
+    SUCCESS, LOADING, ERROR
 }

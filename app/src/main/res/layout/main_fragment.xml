@@ -2,7 +2,7 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.dolaptendyol.MainActivity">
+    tools:context="com.example.collapsable.MainActivity">
 
     <data>
 
@@ -10,7 +10,7 @@
 
         <variable
             name="viewModel"
-            type="com.example.dolaptendyol.ui.main.MainViewModel" />
+            type="com.example.collapsable.ui.main.MainViewModel" />
 
     </data>
 
@@ -108,7 +108,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/iv_favorite"
                 tools:text="123" />
 
-            <com.example.dolaptendyol.customui.CircleProgressBar
+            <com.example.collapsable.customui.CircleProgressBar
                 android:id="@+id/circle_progress"
                 android:layout_width="40dp"
                 android:layout_height="40dp"

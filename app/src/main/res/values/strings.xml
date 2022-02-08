@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Dolap Tendyol</string>
+    <string name="app_name">Collapsable</string>
     <string name="SUFFIX_COMMENT">yorum</string>
     <string name="LOADING_THREE_DOT">Loading...</string>
     <string name="PRODUCT_PAGE">Ürün sayfası</string>
